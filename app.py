@@ -1,7 +1,7 @@
 import streamlit as st
 import os
 
-from torch import div
+#from torch import div
 
 st.set_page_config(
     page_title="Vietnamese News Classification Using XGBoost",
